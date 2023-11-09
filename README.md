@@ -1,5 +1,5 @@
 # Frontend Mentor - QR code component solution
-![](Screenshot%202023-11-09%2011.37.12.png)
+![](Screenshot.png)
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
